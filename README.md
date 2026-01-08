@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-Business-Machine-Learning
+
 # Customer Churn Prediction using Machine Learning
 
 This project predicts whether a customer is likely to churn (leave a service) using machine learning techniques. It focuses on business-oriented ML, feature analysis, and model evaluation.
